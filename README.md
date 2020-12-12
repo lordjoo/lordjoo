@@ -7,8 +7,8 @@ Ask me anything about...
 <img src='https://img.shields.io/badge/php-4f5b93?logo=php&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/Laravel-F05340?logo=laravel&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/Firebase-ffcb2b.svg?&style=for-the-badge&logo=firebase&logoColor=black' height='25'/> <img src='https://img.shields.io/badge/JS-f6820d.svg?&style=for-the-badge&logo=javascript&logoColor=white' height='25'/><img src='https://img.shields.io/badge/nodeJS-333333.svg?&style=for-the-badge&logo=npm&logoColor=white' height='25'/>
 
 <br>
-Reach out to me at...
 
+Reach out to me at...
 <a href="https://twitter.com/lordjoo_20">
   <img align="left" alt="Youssef's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a><a href="https://www.linkedin.com/in/lordjoo/">
@@ -18,6 +18,7 @@ Reach out to me at...
   <img align="left" alt="Youssef's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<br><br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lordjoo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
